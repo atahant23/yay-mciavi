@@ -8,7 +8,7 @@
 </div>
 
 # Publisher Hunter
-*Yayımcı Avı*
+*Yayıncı Avı*
 
 The main goal of this project is to detect the IP addresses, servers, and ports used when connecting to online streaming platforms. It aims to provide insights into how these services operate in terms of network communication and helps identify the data paths during live streaming.  
 *Bu projenin temel amacı, çevrimiçi yayın (streaming) platformlarına bağlantı sağlandığında kullanılan IP adreslerini, sunucuları ve port numaralarını tespit etmektir. Proje, yayın altyapısının nasıl çalıştığını anlamaya yardımcı olmayı ve ağ trafiği üzerinden yayın hizmetlerinin izini sürebilmeyi hedeflemektedir.*
