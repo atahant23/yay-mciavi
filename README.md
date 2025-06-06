@@ -1,17 +1,17 @@
 <div align="center">
-  <img src="https://img.shields.io/github/languages/count/keyvanarasteh/Project?style=flat-square&color=blueviolet" alt="Language Count">
-  <img src="https://img.shields.io/github/languages/top/keyvanarasteh/Project?style=flat-square&color=1e90ff" alt="Top Language">
-  <img src="https://img.shields.io/github/last-commit/keyvanarasteh/Project?style=flat-square&color=ff69b4" alt="Last Commit">
+  <img src="https://img.shields.io/github/languages/count/atahant23/yay-mciavi?style=flat-square&color=blueviolet" alt="Language Count">
+  <img src="https://img.shields.io/github/languages/top/atahant23/yay-mciavi?style=flat-square&color=1e90ff" alt="Top Language">
+  <img src="https://img.shields.io/github/last-commit/atahant23/yay-mciavi?style=flat-square&color=ff69b4" alt="Last Commit">
   <img src="https://img.shields.io/github/license/keyvanarasteh/Project?style=flat-square&color=yellow" alt="License">
   <img src="https://img.shields.io/badge/Status-Active-green?style=flat-square" alt="Status">
   <img src="https://img.shields.io/badge/Contributions-Welcome-brightgreen?style=flat-square" alt="Contributions">
 </div>
 
-# Project Name
-*Proje Adı*
+# Publisher Hunter
+*Yayımcı Avı*
 
-A brief, engaging description of your project.  
-*Projenizin kısa ve ilgi çekici bir açıklaması.*
+The main goal of this project is to detect the IP addresses, servers, and ports used when connecting to online streaming platforms. It aims to provide insights into how these services operate in terms of network communication and helps identify the data paths during live streaming.  
+*Bu projenin temel amacı, çevrimiçi yayın (streaming) platformlarına bağlantı sağlandığında kullanılan IP adreslerini, sunucuları ve port numaralarını tespit etmektir. Proje, yayın altyapısının nasıl çalıştığını anlamaya yardımcı olmayı ve ağ trafiği üzerinden yayın hizmetlerinin izini sürebilmeyi hedeflemektedir.*
 
 ---
 
@@ -30,12 +30,8 @@ A brief, engaging description of your project.
 
 ## Team / *Ekip*
 
-- **219*****031** - Name Surname: *Role or Contribution*  
-  *Ad Soyad: Rolü veya Katkısı*
-- **Another Member** - Name Surname: *Role or Contribution*  
-  *Ad Soyad: Rolü veya Katkısı*
-- Add more members as needed.  
-  *Gerektiğinde daha fazla üye ekleyin.*
+- **2120191030** - Atahan Turna: *Project Owner/Proje Sahibi*
+
 
 ---
 
@@ -124,9 +120,8 @@ Licensed under the [MIT License](LICENSE.md).
 ## Acknowledgements / *Teşekkürler* (Optional)
 
 Thanks to:  
-- Awesome Library: For enabling X.  
-- Inspiration Source.  
-- Special thanks to...  
+- Atahan Turna(atahan708@gmail.com) 
+- Istinye University.    
 
 *Teşekkürler: Harika kütüphaneler ve ilham kaynakları için.*
 
@@ -134,10 +129,10 @@ Thanks to:
 
 ## Contact / *İletişim* (Optional)
 
-Project Maintainer: [Your Name/Org Name] - [your.email@example.com]  
+Project Maintainer: [Atahan Turna / Istinye University] - [atahan708@gmail.com]  
 Found a bug? Open an issue.  
 
-*Proje Sorumlusu: [Adınız/Kuruluş Adınız] - [e-posta.adresiniz@ornek.com]. Hata bulursanız bir sorun bildirin.*
+*Proje Sorumlusu: [Atahan Turna / Istinye University] - [atahan708@gmail.com]. Hata bulursanız bir sorun bildirin.*
 
 ---
 
